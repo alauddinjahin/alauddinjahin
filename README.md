@@ -1,14 +1,19 @@
 ### Hi there, I'm Alauddin Jahin - [devsfarm][website] 👋
 
+ :mailbox:✉️ reach me out
+
 [![Website](https://img.shields.io/website?label=alauddinjahin.github.io&style=for-the-badge&url=https%3A%2F%2Falauddinjahin.github.io)](https://alauddinjahin.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/JahinAlauddin?color=1DA1F2&logo=twitter&style=for-the-badge)]()
 
-## I'm a Full stack developer, Trainer, and Teacher!!
+
+
+## I'm a Full stack developer, Trainner, and Teacher!!
 
 - 🔭 I just launched my new course: [Become A Laravel Master!][course]!
 - 🌱 I’m currently learning everything & working in a Software company 🤣
 - 👯 I’m looking to collaborate with other IT company or Developer team.
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects.
+- ✉️ How to reach me: mdalauddinjahin365@gmail.com
 - ⚡ Fun fact: I love to recite book and Listening Holy Quran 📖.
 
 ### Spotify Playing 🎧
@@ -51,6 +56,11 @@
 <br />
 
 
+#### Business:
+- :paperclip: [My Resume/CV](https://alauddinjahin.github.io/md_alauddin_cv.pdf)
+- :email: mdalauddinjahin365@gmail.com
+
+
 ### 📕 Latest Courses & Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -77,9 +87,20 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: More stuff about me</summary>
 
-  <img align="left" alt="alauddinjahin's GitHub Stats" src="" />
+  <br >
+  
+  I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and that's why Smart Developer Training exists!
+
+  #### What is Smart Developer?
+
+  Smart Developer is a online training platform where every developer & non-developer person learning for Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
+
+  #### Github Stats
+
+  ![My's github stats](https://github-readme-stats.vercel.app/api?username=alauddinjahin&count_private=true&theme=tokyonight&hide=contribs,prs)
+
 
 </details>
 
