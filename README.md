@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning everything & working in a Software company 🤣
 - 👯 I’m looking to collaborate with other IT company or Developer team.
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to reciting book and Listening Holy Quran 📖.
+- ⚡ Fun fact: I love to recite book and Listening Holy Quran 📖.
 
 ### Spotify Playing 🎧
 
