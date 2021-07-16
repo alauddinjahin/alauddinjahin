@@ -80,11 +80,15 @@
 
 </details>
 
+
 [website]: https://alauddinjahin.github.io
 [course]: https://www.facebook.com/groups/490697088749195
 [twitter]: https://twitter.com/alauddinjahin
 [youtube]: https://youtube.com/alauddinjahin
 [linkedin]: https://www.linkedin.com/in/alauddin-jahin-8008b1183
 [webdevplaylist]:https://alauddinjahin.github.io
+[cssplaylist]:https://alauddinjahin.github.io
+[jsplaylist]:https://alauddinjahin.github.io
+[reactplaylist]:https://alauddinjahin.github.io
 
 
