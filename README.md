@@ -61,6 +61,12 @@
 - :email: mdalauddinjahin365@gmail.com
 
 
+
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=alauddinjahin.alauddinjahin)
+
+
 ### 📕 Latest Courses & Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -76,30 +82,25 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/alauddinjahin/aj-php-mvc-framework) in [alauddinjahin/aj-php-mvc-framework](https://github.com/alauddinjahin)
-
-2. ❌ Closed PR [#1]()
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
   <summary>:zap: More stuff about me</summary>
 
   <br >
-  
+
   I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and that's why Smart Developer Training exists!
 
   #### What is Smart Developer?
 
   Smart Developer is a online training platform where every developer & non-developer person learning for Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
 
+
+  #### Coding Stats 
+
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+
   #### Github Stats
 
-  ![My's github stats](https://github-readme-stats.vercel.app/api?username=alauddinjahin&count_private=true&theme=tokyonight&hide=contribs,prs)
+  ![My's github stats](https://github-readme-stats.vercel.app/api?username=alauddinjahin&count_private=true&&show_icons=true&&theme=shades-of-purple&&title_color="#fdfdfd"&&hide=contribs,prs)
 
 
 </details>
@@ -115,5 +116,6 @@
 [cssplaylist]:https://alauddinjahin.github.io
 [jsplaylist]:https://alauddinjahin.github.io
 [reactplaylist]:https://alauddinjahin.github.io
+
 
 
