@@ -1,4 +1,4 @@
-### Hi there, I'm Alauddin Jahin - [devsfarm][website] 👋
+### Hi there, I'm Alauddin Jahin - [portfolio][website] 👋
 
  :mailbox:✉️ reach me out
 
