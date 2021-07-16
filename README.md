@@ -21,6 +21,7 @@
 [<img align="left" alt="https://youtube.com/alauddinjahin | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="https://twitter.com/alauddinjahin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="https://www.linkedin.com/in/alauddin-jahin-8008b1183/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="https://www.facebook.com/groups/490697088749195 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebookGroup]
 
 
 <br />
@@ -83,6 +84,7 @@
 
 [website]: https://alauddinjahin.github.io
 [course]: https://www.facebook.com/groups/490697088749195
+[facebookGroup]: https://www.facebook.com/groups/490697088749195
 [twitter]: https://twitter.com/alauddinjahin
 [youtube]: https://youtube.com/alauddinjahin
 [linkedin]: https://www.linkedin.com/in/alauddin-jahin-8008b1183
