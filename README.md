@@ -19,6 +19,7 @@
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Love to Recite Holy Quran" width="350" />]()
+[<img src="https://gfycat.com/acclaimedheartfeltgoat-equalizer-backpack-audio-music-cool" alt="Love to Recite Holy Quran" width="350"/>]()
 
 ### Connect with me:
 
