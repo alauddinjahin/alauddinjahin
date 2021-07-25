@@ -104,7 +104,8 @@ PHP          10 mins         █░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
  
-
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=alauddinjahin&card_width=800&langs_count=10)](https://github.com/alauddinjahin)
+ 
   #### Github Stats
 
   ![My's github stats](https://github-readme-stats.vercel.app/api?username=alauddinjahin&count_private=true&&show_icons=true&&theme=shades-of-purple&&title_color="#fdfdfd"&&hide=contribs,prs)
