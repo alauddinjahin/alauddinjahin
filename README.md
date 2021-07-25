@@ -108,7 +108,7 @@ PHP          10 mins         █░░░░░░░░░░░░░░░░
  
   #### Github Stats
 
-  ![My's github stats](https://github-readme-stats.vercel.app/api?username=alauddinjahin&count_private=true&&show_icons=true&&theme=shades-of-purple&&title_color="#fdfdfd"&text_color="white"&hide=contribs,prs)
+  ![My's github stats](https://github-readme-stats.vercel.app/api?username=alauddinjahin&count_private=true&&show_icons=true&&theme=shades-of-purple&&title_color="#fdfdfd"&text_color="#fff"&hide=contribs,prs)
 
 
 </details>
