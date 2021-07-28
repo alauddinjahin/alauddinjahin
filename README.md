@@ -12,7 +12,7 @@
 ## I'm a Full stack developer, Trainner, and Teacher!!
 
 - 🔭 I just launched my new course: [Become A Laravel Master!][course]!
-- 🌱 I’m currently learning everything & working in a Software company 🤣
+- 🌱 I’m currently learning everything & working in a Software company
 - 👯 I’m looking to collaborate with other IT company or Developer team.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ✉️ How to reach me: mdalauddinjahin365@gmail.com
