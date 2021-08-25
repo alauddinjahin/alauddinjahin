@@ -9,7 +9,7 @@
 
 
 
-## I'm a Full stack developer, Trainner, and Teacher!!
+## I'm a Full stack developer,YouTuber,Trainner and Teacher!!
 
 - 🔭 I just launched my new course: [Become A Laravel Master!][course]!
 - 🌱 I’m currently learning everything & working in a Software company
