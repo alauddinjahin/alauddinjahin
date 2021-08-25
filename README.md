@@ -25,7 +25,7 @@
 ### Connect with me:
 
 [<img align="left" alt="https://alauddinjahin.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="https://youtube.com/alauddinjahin | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="https://www.youtube.com/channel/UCiBzt9auvNX9VlC5kaFvTaQ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="https://twitter.com/alauddinjahin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="https://www.linkedin.com/in/alauddin-jahin-8008b1183/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="https://www.facebook.com/groups/490697088749195 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebookGroup]
@@ -88,11 +88,11 @@
 
   <br >
 
-  I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and that's why Smart Developer Training exists!
+  I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and that's why "Code with love" Training exists!
 
-  #### What is Smart Developer?
+  #### What is 'code with love'?
 
-  Smart Developer is a online training platform where every developer & non-developer person learning for Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
+  'Code with love' is a online training platform where every developer & non-developer person learning for Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
 
 
   #### Coding Stats 
@@ -123,7 +123,7 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
 [course]: https://www.facebook.com/groups/490697088749195
 [facebookGroup]: https://www.facebook.com/groups/490697088749195
 [twitter]: https://twitter.com/alauddinjahin
-[youtube]: https://youtube.com/alauddinjahin
+[youtube]: https://www.youtube.com/channel/UCiBzt9auvNX9VlC5kaFvTaQ
 [linkedin]: https://www.linkedin.com/in/alauddin-jahin-8008b1183
 [webdevplaylist]:https://alauddinjahin.github.io
 [cssplaylist]:https://alauddinjahin.github.io
