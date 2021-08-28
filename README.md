@@ -88,11 +88,11 @@
 
   <br >
 
-  I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and that's why "Code with love" Training exists!
+  I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and that's why "CodeWithLove 360" Training exists!
 
-  #### What is 'code with love'?
+  #### What is 'CodeWithLove 360'?
 
-  'Code with love' is a online training platform where every developer & non-developer person learning for Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
+  'CodeWithLove 360' is a online training platform where every developer & non-developer person learning for Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
 
 
   #### Coding Stats 
