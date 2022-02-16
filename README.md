@@ -99,6 +99,8 @@
 
   <!--START_SECTION:waka-->
 ```text
+Total: 50 hrs 33 mins
+
 Blade Template   21 hrs 12 mins  ██████████▒░░░░░░░░░░░░░░   41.90 % 
 PHP              11 hrs 48 mins  ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
 CSS              8 hrs 40 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.14 % 
