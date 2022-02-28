@@ -98,13 +98,16 @@
   #### Coding Stats 
 
   <!--START_SECTION:waka-->
+
 ```text
-JavaScript       17 hrs 12 mins  ██████████▒░░░░░░░░░░░░░░   41.59 % 
-CSS              12 hrs 16 mins  ███████▒░░░░░░░░░░░░░░░░░   29.66 % 
-PHP              5 hrs 9 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Blade Template   3 hrs 26 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Bash             1 hr 42 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+JavaScript       34 hrs 30 mins  ████████████████▒░░░░░░░░   65.28 %
+Blade Template   6 hrs 5 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.51 %
+PHP              5 hrs 59 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 %
+CSS              3 hrs 31 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
+Bash             1 hr 55 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+HTML             44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 ```
+
 <!--END_SECTION:waka-->
  
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=alauddinjahin&card_width=1200&langs_count=5)](https://github.com/alauddinjahin)
