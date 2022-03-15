@@ -100,12 +100,12 @@
   <!--START_SECTION:waka-->
 
 ```text
-PHP                        9 hrs 49 mins   ██████████▓░░░░░░░░░░░░░░   42.07 %
-Blade Template             9 hrs 31 mins   ██████████▒░░░░░░░░░░░░░░   40.75 %
-CSS                        3 hrs 12 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.71 %
-HTML                       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
-JavaScript                 15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Nginx configuration file   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Blade Template             10 hrs 47 mins  ███████████░░░░░░░░░░░░░░   44.62 %
+PHP                        9 hrs 52 mins   ██████████▒░░░░░░░░░░░░░░   40.84 %
+CSS                        2 hrs 42 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
+JavaScript                 20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+HTML                       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Nginx configuration file   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
