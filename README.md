@@ -100,12 +100,7 @@
   <!--START_SECTION:waka-->
 
 ```text
-JavaScript      2 hrs 23 mins   █████████████░░░░░░░░░░░░   51.79 %
-CSS             1 hr 43 mins    █████████▒░░░░░░░░░░░░░░░   37.27 %
-HTML            20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
-Bash            6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-PHP             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-Apache Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
