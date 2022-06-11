@@ -8,11 +8,9 @@
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/JahinAlauddin?color=1DA1F2&logo=twitter&style=for-the-badge)]() -->
 
 
-<div style="display: flex;">
+<div>
  <div>
- <h3>
- I'm a Full stack developer,YouTuber,Trainner and Teacher!!
- </h3>
+ <h3>I'm a Full stack developer,YouTuber,Trainner and Teacher!!</h3>
 
 - 🔭 I just launched my new course: [Become A Laravel Master!][course]!
 - 🌱 I’m currently learning everything & working in a Software company
@@ -22,7 +20,7 @@
 - ⚡ Fun fact: I love to recite book and Listening Holy Quran 📖.
  </div>
  <div>
- [<img src="./Alauddin.jpg" alt="" width="350" />]()
+ <img src="./Alauddin.jpg" alt="" width="30%" align="right"  />
  </div>
 </div>
 
