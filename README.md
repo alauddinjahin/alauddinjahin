@@ -8,7 +8,7 @@
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/JahinAlauddin?color=1DA1F2&logo=twitter&style=for-the-badge)]() -->
 
 
-[<img src="./Alauddin.jpg" alt="" width="350" height="50"/>]()
+[<img src="./Alauddin.jpg" alt="" width="350" />]()
 
 ## I'm a Full stack developer,YouTuber,Trainner and Teacher!!
 
@@ -21,7 +21,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://i.pinimg.com/originals/93/2f/d0/932fd00d9b43753061c47739f0cc777b.gif" alt="Love to Recite Holy Quran" width="350" />]()
+[<img src="https://i.pinimg.com/originals/93/2f/d0/932fd00d9b43753061c47739f0cc777b.gif" alt="Love to Recite Holy Quran" width="350" height="50"/>]()
 
 ### Connect with me:
 
