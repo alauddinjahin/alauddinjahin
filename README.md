@@ -8,8 +8,8 @@
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/JahinAlauddin?color=1DA1F2&logo=twitter&style=for-the-badge)]() -->
 
 
-[<img src="./Alauddin.jpg" alt="" width="350" />]()
-
+<div style="">
+ <div>
 ## I'm a Full stack developer,YouTuber,Trainner and Teacher!!
 
 - 🔭 I just launched my new course: [Become A Laravel Master!][course]!
@@ -18,6 +18,11 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ✉️ How to reach me: dev.alauddinjahin@gmail.com
 - ⚡ Fun fact: I love to recite book and Listening Holy Quran 📖.
+ </div>
+ <div>
+ [<img src="./Alauddin.jpg" alt="" width="350" />]()
+ </div>
+</div>
 
 ### Spotify Playing 🎧
 
