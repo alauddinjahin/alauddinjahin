@@ -9,6 +9,11 @@
 
 
 <div>
+
+ <div>
+ <img src="./Alauddin.jpg" alt="" width="30%" align="right"  />
+ </div>
+
  <div>
  <h3>I'm a Full stack developer,YouTuber,Trainner and Teacher!!</h3>
 
@@ -19,9 +24,7 @@
 - ✉️ How to reach me: dev.alauddinjahin@gmail.com
 - ⚡ Fun fact: I love to recite book and Listening Holy Quran 📖.
  </div>
- <div>
- <img src="./Alauddin.jpg" alt="" width="30%" align="right"  />
- </div>
+
 </div>
 
 ### Spotify Playing 🎧
@@ -66,7 +69,7 @@
 
 #### Business:
 - :paperclip: [My Resume/CV](https://alauddinjahin.github.io/md_alauddin_cv.pdf)
-- :email: mdalauddinjahin365@gmail.com
+- :email: dev.alauddinjahin@gmail.com
 
 
 
