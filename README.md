@@ -21,7 +21,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://i.pinimg.com/originals/93/2f/d0/932fd00d9b43753061c47739f0cc777b.gif" alt="Love to Recite Holy Quran" width="350" height="50"/>]()
+[<img src="https://i.pinimg.com/originals/93/2f/d0/932fd00d9b43753061c47739f0cc777b.gif" alt="Love to Recite Holy Quran" width="350" />]()
 
 ### Connect with me:
 
