@@ -8,9 +8,11 @@
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/JahinAlauddin?color=1DA1F2&logo=twitter&style=for-the-badge)]() -->
 
 
-<div style="">
+<div style="display: flex;">
  <div>
-## I'm a Full stack developer,YouTuber,Trainner and Teacher!!
+ <h3>
+ I'm a Full stack developer,YouTuber,Trainner and Teacher!!
+ </h3>
 
 - 🔭 I just launched my new course: [Become A Laravel Master!][course]!
 - 🌱 I’m currently learning everything & working in a Software company
