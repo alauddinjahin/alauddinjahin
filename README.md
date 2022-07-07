@@ -109,11 +109,7 @@
   <!--START_SECTION:waka-->
 
 ```text
-JSON             1 hr 20 mins    ██████████████▓░░░░░░░░░░   58.64 %
-Blade Template   30 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.24 %
-PHP              23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.03 %
-Bash             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
