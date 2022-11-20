@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning everything & working in a Software company
 - 👯 I’m looking to collaborate with other IT company or Developer team.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
-- ✉️ How to reach me: dev.alauddinjahin@gmail.com
+- ✉️ How to reach me: devw.alauddinjahin@gmail.com
 - ⚡ Fun fact: I love to recite book and Listening Holy Quran 📖.
  </div>
 
