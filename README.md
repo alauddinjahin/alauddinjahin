@@ -67,11 +67,6 @@
 <br />
 
 
-#### Business:
-- :paperclip: [My Resume/CV](https://alauddinjahin.github.io/md_alauddin_cv.pdf)
-- :email: dev.alauddinjahin@gmail.com
-
-
 
 #### Profile Visits 
 
@@ -81,14 +76,14 @@
 ### 📕 Latest Courses & Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering on Laravel & Lumen](https://www.facebook.com/groups/490697088749195)
-- [Full Stack Program (Basic to advance) PHP](https://www.facebook.com/groups/490697088749195)
-- [Become a Master on Javascript & Javascript Framework](https://www.facebook.com/groups/490697088749195)
-- [Regular Expressions (RegEx) Crash Course](https://www.facebook.com/groups/490697088749195)
-- [Emmet Part 2 - Advanced](https://www.facebook.com/groups/490697088749195)
+- [Mastering on Laravel & Lumen](https://www.facebook.com/groups/490697088749195a)
+- [Full Stack Program (Basic to advance) PHP](https://www.facebook.com/groups/490697088749195a)
+- [Become a Master on Javascript & Javascript Framework](https://www.facebook.com/groups/490697088749195a)
+- [Regular Expressions (RegEx) Crash Course](https://www.facebook.com/groups/490697088749195a)
+- [Emmet Part 2 - Advanced](https://www.facebook.com/groups/490697088749195a)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more courses & posts...](https://www.facebook.com/groups/490697088749195)
+➡️ [more courses & posts...](https://www.facebook.com/groups/490697088749195a)
 
 ---
 
@@ -99,9 +94,9 @@
 
   I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and that's why "CodeWithLove 360" Training exists!
 
-  #### What is 'CodeWithLove 360'?
+  #### What is 'Code'?
 
-  'CodeWithLove 360' is a online training platform where every developer & non-developer person learning for Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
+  'Code' is a online training platform where every developer & non-developer person learning for Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
 
 
   #### Coding Stats 
@@ -127,16 +122,16 @@ No activity tracked
 [Go to top ⬆️ ](#top)
 
 
-[website]: https://alauddinjahin.github.io
-[course]: https://www.facebook.com/groups/490697088749195
-[facebookGroup]: https://www.facebook.com/groups/490697088749195
-[twitter]: https://twitter.com/alauddinjahin
-[youtube]: https://www.youtube.com/channel/UCiBzt9auvNX9VlC5kaFvTaQ
-[linkedin]: https://www.linkedin.com/in/alauddin-jahin-8008b1183
-[webdevplaylist]:https://alauddinjahin.github.io
-[cssplaylist]:https://alauddinjahin.github.io
-[jsplaylist]:https://alauddinjahin.github.io
-[reactplaylist]:https://alauddinjahin.github.io
+[website]: https://alauddinjahin.github.iox
+[course]: https://www.facebook.com/groups/490697088749195x
+[facebookGroup]: https://www.facebook.com/groups/490697088749195x
+[twitter]: https://twitter.com/alauddinjahinx
+[youtube]: https://www.youtube.com/channel/UCiBzt9auvNX9VlC5kaFvTaQx
+[linkedin]: https://www.linkedin.com/in/alauddina-jahin-8008b1183x
+[webdevplaylist]:https://alauddinjahinb.github.io
+[cssplaylist]:https://alauddinjahinx.github.io
+[jsplaylist]:https://alauddinjahinx.github.io
+[reactplaylist]:https://alauddinjahinx.github.io
 
 
 
