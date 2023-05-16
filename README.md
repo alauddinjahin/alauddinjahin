@@ -21,7 +21,7 @@
 - 🌱 I’m currently learning everything & working in a Software company
 - 👯 I’m looking to collaborate with other IT company or Developer team.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
-- ✉️ How to reach me: devw.alauddinjahin@gmail.com
+- ✉️ How to reach me: dev.alauddinjahin@gmail.com
 - ⚡ Fun fact: I love to recite book and Listening Holy Quran 📖.
  </div>
 
@@ -122,12 +122,12 @@ No activity tracked
 [Go to top ⬆️ ](#top)
 
 
-[website]: https://alauddinjahin.github.iox
-[course]: https://www.facebook.com/groups/490697088749195x
-[facebookGroup]: https://www.facebook.com/groups/490697088749195x
-[twitter]: https://twitter.com/alauddinjahinx
-[youtube]: https://www.youtube.com/channel/UCiBzt9auvNX9VlC5kaFvTaQx
-[linkedin]: https://www.linkedin.com/in/alauddina-jahin-8008b1183x
+[website]: https://alauddinjahin.github.io
+[course]: https://www.facebook.com/groups/490697088749195
+[facebookGroup]: https://www.facebook.com/groups/490697088749195
+[twitter]: https://twitter.com/alauddinjahin
+[youtube]: https://www.youtube.com/channel/UCiBzt9auvNX9VlC5kaFvTaQ
+[linkedin]: https://www.linkedin.com/in/alauddina-jahin-8008b1183
 [webdevplaylist]:https://alauddinjahinb.github.io
 [cssplaylist]:https://alauddinjahinx.github.io
 [jsplaylist]:https://alauddinjahinx.github.io
