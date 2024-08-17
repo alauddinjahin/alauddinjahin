@@ -2,6 +2,8 @@
 
 ### Hi there, I'm Alauddin Jahin - [portfolio][website] 👋
 
+## Senior Full Stack Developer | Javascript Lover
+
  :mailbox: reach me out
 
 [![Website](https://img.shields.io/website?label=alauddinjahin.github.io&style=for-the-badge&url=https%3A%2F%2Falauddinjahin.github.io)](https://alauddinjahin.github.io)
@@ -20,7 +22,7 @@ I'm a **Senior Full Stack Developer** currently working in a software company. M
 
 - 🌱 **Currently Learning:** All things tech, with a focus on AI & ML, Deep Learning, and IoT.
 - 👯 **Looking to Collaborate:** Open to opportunities with IT companies or developer teams.
-- 🥅 **2024-2025 Goals:** Contribute to Open Source projects, especially in 🚀 *AI & ML*, 🤖 *Deep Learning*, 🌐 *IoT*
+- 🥅 **2024-2025 Goals:** Contribute to Open Source projects, especially in 🚀 *AI & ML*, <br/> 🤖 *Deep Learning*, 🌐 *IoT*
 - 📫 **Contact:** dev.alauddinjahin@gmail.com | mdalauddinjahin365@gmail.com
 - ⚡ **Fun Fact:** I love reading books and listening to the Holy Quran.
 
