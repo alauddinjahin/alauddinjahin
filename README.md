@@ -45,10 +45,10 @@ I have developed a "Aj vs Theme" dark theme. To use this extension:
 
 [<img src="https://i.pinimg.com/originals/93/2f/d0/932fd00d9b43753061c47739f0cc777b.gif" alt="Love to Recite Holy Quran" width="350" height="50"/>]()
 
- <script>
-    var audio = new Audio('./bg-sound.mp3?raw=true');
-    audio.play();
-</script>
+<audio controls>
+  <source src="https://github.com/alauddinjahin/alauddinjahin/blob/main/bg-sound.mp3" type="audio/mp3">
+  Your browser does not support the audio element.
+</audio>
 
 
 ### Connect with me:
