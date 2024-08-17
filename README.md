@@ -45,12 +45,8 @@ I have developed a "Aj vs Theme" dark theme. To use this extension:
 
 [<img src="https://i.pinimg.com/originals/93/2f/d0/932fd00d9b43753061c47739f0cc777b.gif" alt="Love to Recite Holy Quran" width="350" height="50"/>]()
 <audio autoplay>
- <source src="./bg-sound.mp3" type="audio/mpeg">
+ <source src="./bg-sound.mp3" type="audio/mp3">
 </audio>
-
-<video controls="" autoplay="" name="media">
-    <source src="./bg-sound.mp3" type="audio/mp3">
-</video>
 
 ### Connect with me:
 
