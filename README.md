@@ -15,18 +15,21 @@
  </div>
 
  <div>
- <h3>I'm a Senior Full stack developer!!</h3>
+  
+I'm a **Senior Full Stack Developer** currently working in a software company. My journey in software development has been fueled by a deep passion for learning and collaboration.
 
-- 🌱 I’m currently learning everything & working in a Software company
-- 👯 I’m looking to collaborate with other IT company or Developer team.
-- 🥅 2024 Goals: Contribute to Open Source projects: 🚀 *AI & ML*, 🤖 *Deep Learning*, 🌐 *IoT*
-- ✉️ How to reach me: dev.alauddinjahin@gmail.com or mdalauddinjahin365@gmail.com
-- ⚡ Fun fact: I love to recite book and Listening Holy Quran 📖.
+- 🌱 **Currently Learning:** All things tech, with a focus on AI & ML, Deep Learning, and IoT.
+- 👯 **Looking to Collaborate:** Open to opportunities with IT companies or developer teams.
+- 🥅 **2024 Goals:** Contribute to Open Source projects, especially in 🚀 *AI & ML*, 🤖 *Deep Learning*, 🌐 *IoT*
+- 📫 **Contact:** dev.alauddinjahin@gmail.com | mdalauddinjahin365@gmail.com
+- ⚡ **Fun Fact:** I love reading books and listening to the Holy Quran.
+
  </div>
 
 </div>
 
-- I have developed a "Aj vs Theme" is dark theme. To use this extension go to extension tab and search "Aj vs Theme" and install it.
+
+I have developed a "Aj vs Theme" is dark theme. To use this extension go to extension tab and search "Aj vs Theme" and install it.
 - OR press ``ctl/command + shift + p`` to launch the command palette then run
 ```
   ext install MdAlauddinJahin.aj-vs-theme
