@@ -48,6 +48,10 @@ I have developed a "Aj vs Theme" dark theme. To use this extension:
  <source src="./bg-sound.mp3" type="audio/mpeg">
 </audio>
 
+<video controls="" autoplay="" name="media">
+    <source src="./bg-sound.mp3" type="audio/mp3">
+</video>
+
 ### Connect with me:
 
 [<img align="left" alt="https://alauddinjahin.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
