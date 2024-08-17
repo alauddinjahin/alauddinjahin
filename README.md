@@ -31,8 +31,12 @@ I'm a **Senior Full Stack Developer** currently working in a software company. M
 </div>
 
 
-I have developed a "Aj vs Theme" is dark theme. To use this extension go to extension tab and search "Aj vs Theme" and install it.
-- OR press ``ctl/command + shift + p`` to launch the command palette then run
+### 🌟 Aj vs Dark Theme
+
+I have developed a "Aj vs Theme" dark theme. To use this extension:
+
+1. Go to the extension tab and search "Aj vs Theme" and install it.
+2. OR press `Ctrl/Command + Shift + P` to launch the command palette, then run:
 ```
   ext install MdAlauddinJahin.aj-vs-theme
 ```
