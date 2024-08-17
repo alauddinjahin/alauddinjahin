@@ -15,17 +15,22 @@
  </div>
 
  <div>
- <h3>I'm a Full stack developer,YouTuber,Trainner and Teacher!!</h3>
+ <h3>I'm a Senior Full stack developer!!</h3>
 
-- 🔭 I just launched my new course: [Become A Laravel Master!][course]!
 - 🌱 I’m currently learning everything & working in a Software company
 - 👯 I’m looking to collaborate with other IT company or Developer team.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
-- ✉️ How to reach me: dev.alauddinjahin@gmail.com
+- 🥅 2024 Goals: Contribute to Open Source projects: 🚀 *AI & ML*, 🤖 *Deep Learning*, 🌐 *IoT*
+- ✉️ How to reach me: dev.alauddinjahin@gmail.com or mdalauddinjahin365@gmail.com
 - ⚡ Fun fact: I love to recite book and Listening Holy Quran 📖.
  </div>
 
 </div>
+
+- I have developed a "Aj vs Theme" is dark theme. To use this extension go to extension tab and search "Aj vs Theme" and install it.
+- OR press ``ctl/command + shift + p`` to launch the command palette then run
+```
+  ext install MdAlauddinJahin.aj-vs-theme
+```
 
 ### Playing 🎧
 
@@ -40,7 +45,7 @@
 [<img align="left" alt="https://www.youtube.com/channel/UCiBzt9auvNX9VlC5kaFvTaQ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="https://twitter.com/alauddinjahin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="https://www.linkedin.com/in/alauddin-jahin-8008b1183/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="https://www.facebook.com/groups/490697088749195 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebookGroup]
+[<img align="left" alt="https://www.facebook.com/alauddinjahin | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 
 <br />
@@ -52,6 +57,7 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][jsplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
 [<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][webdevplaylist]
@@ -75,19 +81,6 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=alauddinjahin.alauddinjahin)
 
-
-### 📕 Latest Courses & Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Mastering on Laravel & Lumen](https://www.facebook.com/groups/490697088749195a)
-- [Full Stack Program (Basic to advance) PHP](https://www.facebook.com/groups/490697088749195a)
-- [Become a Master on Javascript & Javascript Framework](https://www.facebook.com/groups/490697088749195a)
-- [Regular Expressions (RegEx) Crash Course](https://www.facebook.com/groups/490697088749195a)
-- [Emmet Part 2 - Advanced](https://www.facebook.com/groups/490697088749195a)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more courses & posts...](https://www.facebook.com/groups/490697088749195a)
-
 ---
 
 <details>
@@ -95,12 +88,7 @@
 
   <br >
 
-  I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and that's why "CodeWithLove 360" Training exists!
-
-  #### What is 'Code'?
-
-  'Code' is a online training platform where every developer & non-developer person learning for Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
-
+  I love sharing knowledge and putting tutorials and posts together for helping other developers, and that's why "CodeWithLove 360" Training exists!
 
   #### Coding Stats 
 
@@ -128,6 +116,7 @@ No activity tracked
 [website]: https://alauddinjahin.github.io
 [course]: https://www.facebook.com/groups/490697088749195
 [facebookGroup]: https://www.facebook.com/groups/490697088749195
+[facebook]: https://www.facebook.com/alauddinjahin
 [twitter]: https://twitter.com/alauddinjahin
 [youtube]: https://www.youtube.com/channel/UCiBzt9auvNX9VlC5kaFvTaQ
 [linkedin]: https://www.linkedin.com/in/alauddina-jahin-8008b1183
