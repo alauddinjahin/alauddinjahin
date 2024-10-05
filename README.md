@@ -13,7 +13,6 @@
 <div>
 
  <div>
- <img src="./Alauddin.jpg" alt="" width="30%" align="right"  />
  </div>
 
  <div>
