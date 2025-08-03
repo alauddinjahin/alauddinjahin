@@ -6,7 +6,7 @@
 
  :mailbox: reach me out
 
-[![Website](https://img.shields.io/website?label=alauddinjahin.github.io&style=for-the-badge&url=https%3A%2F%2Falauddinjahin.github.io)](https://alauddinjahin.github.io)
+[![Website](https://img.shields.io/website?label=alauddinjahin.github.io&style=for-the-badge&url=https://alauddinjahin.vercel.app)](https://alauddinjahin.vercel.app)
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/JahinAlauddin?color=1DA1F2&logo=twitter&style=for-the-badge)]() -->
 
 
