@@ -124,10 +124,10 @@ No activity tracked
 [twitter]: https://twitter.com/alauddinjahin
 [youtube]: https://www.youtube.com/channel/UCiBzt9auvNX9VlC5kaFvTaQ
 [linkedin]: https://www.linkedin.com/in/alauddina-jahin-8008b1183
-[webdevplaylist]:https://alauddinjahinb.github.io
-[cssplaylist]:https://alauddinjahinx.github.io
-[jsplaylist]:https://alauddinjahinx.github.io
-[reactplaylist]:https://alauddinjahinx.github.io
+[webdevplaylist]:https://alauddinjahin.vercel.app
+[cssplaylist]:https://alauddinjahin.vercel.app/skills
+[jsplaylist]:https://alauddinjahin.vercel.app/skills
+[reactplaylist]:https://alauddinjahin.vercel.app/skills
 
 
 
