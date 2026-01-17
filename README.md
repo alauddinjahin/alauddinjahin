@@ -47,7 +47,7 @@ I have developed a "Aj vs Theme" dark theme. To use this extension:
 
 ### Connect with me:
 
-[<img align="left" alt="https://alauddinjahin.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="https://alauddinjahin.vercel.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="https://twitter.com/alauddinjahin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="https://www.linkedin.com/in/alauddin-jahin-8008b1183/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -117,7 +117,7 @@ No activity tracked
 [Go to top ⬆️ ](#top)
 
 
-[website]: https://alauddinjahin.github.io
+[website]: https://alauddinjahin.vercel.app
 [course]: https://www.facebook.com/groups/490697088749195
 [facebookGroup]: https://www.facebook.com/groups/490697088749195
 [facebook]: https://www.facebook.com/alauddinjahin
