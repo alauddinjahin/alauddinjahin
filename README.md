@@ -79,12 +79,6 @@ I have developed a "Aj vs Theme" dark theme. To use this extension:
 <br />
 <br />
 
-
-
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=alauddinjahin.alauddinjahin)
-
 ---
 
 <details>
@@ -93,23 +87,6 @@ I have developed a "Aj vs Theme" dark theme. To use this extension:
   <br >
 
   I love sharing knowledge and putting tutorials and posts together for helping other developers.
-
-  #### Coding Stats 
-
-  <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
- 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=alauddinjahin&card_width=1200&langs_count=5)](https://github.com/alauddinjahin)
- 
-  #### Github Stats
-
-  ![My's github stats](https://github-readme-stats.vercel.app/api?username=alauddinjahin&count_private=true&&show_icons=true&&theme=shades-of-purple&&title_color="#fdfdfd"&&hide=contribs,prs)
-
 
 </details>
 
