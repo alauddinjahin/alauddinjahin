@@ -94,7 +94,7 @@ I have developed a "Aj vs Theme" dark theme. To use this extension:
 
   <br >
 
-  I love sharing knowledge and putting tutorials and posts together for helping other developers, and that's why "CodeWithLove 360" Training exists!
+  I love sharing knowledge and putting tutorials and posts together for helping other developers.
 
   #### Coding Stats 
 
