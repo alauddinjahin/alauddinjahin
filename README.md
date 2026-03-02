@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Alauddin Jahin 👋
 
-## Senior Full Stack Developer | Javascript Lover
+## Full Stack Developer | Javascript Lover
 
  :mailbox: reach me out
 
@@ -17,7 +17,7 @@
 
  <div>
   
-I'm a **Senior Full Stack Developer** currently working in a software company. My journey in software development has been fueled by a deep passion for learning and collaboration.
+I'm a **Full Stack Developer** currently working in a software company. My journey in software development has been fueled by a deep passion for learning and collaboration.
 
 - 🌱 **Currently Learning:** All things tech, with a focus on AI & ML, Deep Learning, and IoT.
 - 👯 **Looking to Collaborate:** Open to opportunities with IT companies or developer teams.
@@ -100,7 +100,7 @@ I have developed a "Aj vs Theme" dark theme. To use this extension:
 [facebook]: https://www.facebook.com/alauddinjahin
 [twitter]: https://twitter.com/alauddinjahin
 [youtube]: https://www.youtube.com/channel/UCiBzt9auvNX9VlC5kaFvTaQ
-[linkedin]: https://www.linkedin.com/in/alauddina-jahin-8008b1183
+[linkedin]: https://alauddinjahin.vercel.app/contact
 [webdevplaylist]:https://alauddinjahin.vercel.app
 [cssplaylist]:https://alauddinjahin.vercel.app/skills
 [jsplaylist]:https://alauddinjahin.vercel.app/skills
