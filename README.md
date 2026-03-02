@@ -21,7 +21,7 @@ I'm a **Full Stack Developer** currently working in a software company. My journ
 
 - 🌱 **Currently Learning:** All things tech, with a focus on AI & ML, Deep Learning, and IoT.
 - 👯 **Looking to Collaborate:** Open to opportunities with IT companies or developer teams.
-- 🥅 **2024-2026 Goals:** Contribute to Open Source projects, especially in 🚀 *AI & ML*, <br/> 🤖 *Deep Learning*, 🌐 *IoT*
+- 🥅 **2025-2026 Goals:** Contribute to Open Source projects, especially in 🚀 *AI & ML*, <br/> 🤖 *Deep Learning*, 🌐 *IoT*
 - 📫 **Contact:** dev.alauddinjahin@gmail.com | mdalauddinjahin365@gmail.com
 - ⚡ **Fun Fact:** I love reading books and listening to the Holy Quran.
 
