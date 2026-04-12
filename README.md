@@ -1,6 +1,6 @@
 <a id="top"></a>
 
-### Hi there, I'm Alauddin Jahin: 358181358756027andsl - F71MV50HQC -iOS26.1
+### Hi there, I'm Alauddin Jahin
  👋
 
 ## Full Stack Developer | Javascript Lover
