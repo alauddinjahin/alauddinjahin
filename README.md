@@ -1,7 +1,6 @@
 <a id="top"></a>
 
-### Hi there, I'm Alauddin Jahin
- 👋
+### Hi there, I'm Alauddin Jahin👋
 
 ## Full Stack Developer | Javascript Lover
 
