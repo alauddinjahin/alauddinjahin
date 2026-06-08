@@ -46,7 +46,7 @@ I have developed a "Aj vs Theme" dark theme. To use this extension:
 
 
 ### Connect with me:
-
+alauddin.bet@!123$A-1$A
 [<img align="left" alt="https://alauddinjahin.vercel.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="https://twitter.com/alauddinjahin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="https://www.linkedin.com/in/alauddin-jahin-8008b1183/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
